@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mlee041317
-- 👀 I’m interested in software
-- 🌱 I’m currently learning how to program
+- 👋 Hi, I’m Michelle
+- 👀 I’m interested in developing apps and designing
+- 🌱 I’m currently learning how to build full stack applications
 - 💞️ I’m looking to collaborate on anything and everything
 - 📫 How to reach me is to call out my name in the middle of ongoing traffic
 
