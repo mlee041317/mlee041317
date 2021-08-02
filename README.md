@@ -1,10 +1,3 @@
-- 👋 Hi, I’m Michelle
-- 👀 I’m interested in frontend/design
-- 🌱 I’m currently geeking out about React
-- 💞️ I’m looking to collaborate on anything and everything
-- 📫 How to reach me is to call out my name in the middle of ongoing traffic
+**👋  Hi!
 
-<!---
-mlee041317/mlee041317 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Michelle and I am switching career paths from the fitness field, looking to get my start as a Software Developer! I've recently graduated from General Assembly's Software Engineering Immersive course where I completed over 500 hours of instruction and putting in incredible work and art into all of my personal projects. I am extremely driven to keep going, and learning all that there is that this field has to offer.
