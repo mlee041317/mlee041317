@@ -5,7 +5,7 @@ I'm Michelle and I am switching career paths from the fitness field, looking to 
 ## 🌙 Currently working on:
 Data Structures & Algorithms
 
-Implementing additional features to EarthAngel
+Implementing additional features to Earthangel
 
 ## 🌕 Currently learning:
 React.js
