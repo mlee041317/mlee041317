@@ -5,8 +5,6 @@ I'm Michelle and I am switching career paths from the fitness field, looking to 
 ## 🌙 Currently working on:
 Data Structures & Algorithms
 
-Netflix Splash Page using React
-
 ## 🌕 Currently learning:
 React.js
 
