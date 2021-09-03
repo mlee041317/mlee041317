@@ -5,10 +5,8 @@ I'm Michelle and I'm switching career paths from the fitness field, looking to g
 ## 🌙 Currently working on:
 Data Structures & Algorithms
 
-C#
-
 ## 🌕 Currently learning:
-React.js & Typescript
+C#
 
 ## 🌑 How to reach me:
 email: mlee041317@gmail.com
