@@ -1,12 +1,12 @@
-## 👼 Hi!
+## 👼 Hi, I'm Michelle!
 
-I'm Michelle and I'm switching career paths from the fitness field, looking to get my start as a Software Engineer! I recently graduated from General Assembly's Software Engineering Immersive course where I completed over 500 hours of instruction, including submitting deliverables, projects, and gaining a foundational understanding of technical languages such as Javascript and Python, along with libraries and frameworks such as React, Node, Express, Bootstrap, jQuery, Mongo, SQL, and Django. 
+Innovative Software Engineer passionate about creating visually pleasing web and mobile applications. Familiar with Javascript and Typescript in addition to modern libraries and frameworks such as React and React Native. I enjoy tackling challenges, providing an honest and strategic perspective to any team I work with.
 
 ## 🌙 Currently working at:
-Saggezza
+Infostretch
 
 ## 🌕 Currently working on:
-React, React Native, Frontend App Development
+Typescript, React Native, Hooks
 
 ## 🌑 How to reach me:
 email: mlee041317@gmail.com
