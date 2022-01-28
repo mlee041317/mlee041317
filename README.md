@@ -6,7 +6,7 @@ Innovative Software Engineer passionate about creating visually pleasing web and
 Infostretch
 
 ## 🌕 Currently working on:
-Typescript, React Native, Hooks
+Typescript, React Native
 
 ## 🌑 How to reach me:
 email: mlee041317@gmail.com
