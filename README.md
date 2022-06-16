@@ -3,6 +3,6 @@
 ## 🌙 Currently working at:
 Infostretch
 
-## 🌕 Currently learning on:
+## 🌕 Currently learning:
 Go
 
