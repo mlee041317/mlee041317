@@ -1,4 +1,4 @@
-## Hi, I'm Michelle!
+## Hi, I'm Michelle! :relaxed:
 Collaborative and result-oriented individual with an ability to utilize both technical and interpersonal skills to build strong relationships and create solutions to complex problems.
 
 ## Currently working at:
