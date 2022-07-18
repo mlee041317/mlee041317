@@ -5,7 +5,7 @@ Collaborative and result-oriented individual with an ability to utilize both tec
 Infostretch
 
 ## Currently learning:
-Go, Channels & Routines, AWS
+Salesforce & AWS
 
 ## Technical Languages & Tools I've used:
 Javascript, C#, Go, React, Hooks, Routers, Axios,  Heroku, CSS, Flexbox, Grids, Azure DevOps, Agile, APIs
