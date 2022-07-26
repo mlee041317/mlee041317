@@ -4,7 +4,7 @@ Collaborative and result-oriented individual with an ability to utilize both tec
 ## Currently working at:
 Apexon
 
-## Currently learning:
+## Current project:
 Salesforce
 
 ## Technical Languages & Tools I've used:
