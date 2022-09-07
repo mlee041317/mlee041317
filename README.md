@@ -8,5 +8,5 @@ Apexon
 Salesforce
 
 ## Technical Languages & Tools I've used:
-Javascript, C#, Go, React, Hooks, Routers, Axios,  Heroku, CSS, Flexbox, Grids, Azure DevOps, Agile, APIs
+JavaScript, Java, C#, React, Hooks, Routers, Axios, Heroku, CSS, Flexbox, Grids, Azure DevOps, Agile, APIs
 
